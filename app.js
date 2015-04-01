@@ -9,6 +9,7 @@ window.Game = function(data){
 	//Function that uses data to show it in the DOM
 	var showRoom = function(data, frame_name){
 		if (frame_name == 'cuadro_b' || frame_name == 'cuadro_l' || frame_name == 'cuadro_k' || frame_name == 'cuadro_g') {
+			$('#message').text(data[frame_name]['message']);
 			$('#opt01').text('This...');
 			$('#opt02').text('is...');
 			$('#opt03').text('The End.');
