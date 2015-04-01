@@ -37,7 +37,7 @@ var cuadros = {
 			relatedRoom : 'cuadro_b',
 		},
 		opt02 : {
-			message: 'bailar hasta fundirse con la mœsica', 
+			message: 'bailar hasta fundirse con la música', 
 			relatedRoom : 'cuadro_e',
 		},
 		opt03 : {
@@ -58,13 +58,13 @@ var cuadros = {
 			relatedRoom : 'cuadro_e',
 		},
 		opt03 : {
-			message: 'reconsiderar quiŽn es ella y quŽ tipo de cosas le agradan', 
+			message: 'reconsiderar quién es ella y qué tipo de cosas le agradan', 
 			relatedRoom : 'cuadro_a',
 		}
 	},
 	cuadro_e : {	
 
-		message : 'Arnulfa la tortuga ha decidido que hoy bailará. Su danza y la mœsica que le acompa–a han de ser un solo fuego. El ritmo al que arderá Arnulfa será :',
+		message : 'Arnulfa la tortuga ha decidido que hoy bailará. Su danza y la música que le acompa–a han de ser un solo fuego. El ritmo al que arderá Arnulfa será :',
 
 		opt01 : {
 			message: 'algo lento y cadencioso como una balada romántica',	
@@ -81,7 +81,7 @@ var cuadros = {
 	},
 	cuadro_f : {	
 
-		message : 'Arnulfa cocinar‡ algo dulce y tendr‡ una explosión de adrenalina por el azœcar en su sangre de tortuga. Lo mejor que ella puede hacer al respecto de su hiperactividad es:',
+		message : 'Arnulfa cocinar‡ algo dulce y tendr‡ una explosión de adrenalina por el azúcar en su sangre de tortuga. Lo mejor que ella puede hacer al respecto de su hiperactividad es:',
 
 		opt01 : {
 			message: 'refrenar sus impulsos y sosegarse como buena tortuga prudente',	
@@ -119,10 +119,10 @@ var cuadros = {
 	},
 	cuadro_i : {	
 
-		message : 'Arnulfa busca en el bosque a su amigo el mono. El desquiciado y furibundo macaco le muestra lo œltimo que ha aprendido, se trata de un paso mortal de breakdance. El paso consiste en girar intempestivamente con la espalda sobre el piso. ÀquŽ debe hacer Arnulfa?',
+		message : 'Arnulfa busca en el bosque a su amigo el mono. El desquiciado y furibundo macaco le muestra lo último que ha aprendido, se trata de un paso mortal de breakdance. El paso consiste en girar intempestivamente con la espalda sobre el piso. Àquí debe hacer Arnulfa?',
 
 		opt01 : {
-			message: 'olvidarse de todo e ir a reposar por el agitamiento de Žsta confusión',	
+			message: 'olvidarse de todo e ir a reposar por el agitamiento de ésta confusión',	
 			relatedRoom : 'cuadro_b',
 		},
 		opt02 : {
@@ -130,13 +130,13 @@ var cuadros = {
 			relatedRoom : 'cuadro_j',
 		},
 		opt03 : {
-			message: 'sin pensarlo más, hacerlo hasta morir, que la mœsica nos posea', 
+			message: 'sin pensarlo más, hacerlo hasta morir, que la música nos posea', 
 			relatedRoom : 'cuadro_k',
 		},
 	},
 	cuadro_j : {	
 
-		message : 'Arnulfa está decidida a bailar como el mono, pero antes quiere su consejo. El mono explica su tŽcnica y Žsta resulta ser muy trabajosa. Arnulfo tiene un gran obstáculo en frente y lo que debe hacer es :',
+		message : 'Arnulfa está decidida a bailar como el mono, pero antes quiere su consejo. El mono explica su técnica y ésta resulta ser muy trabajosa. Arnulfo tiene un gran obstáculo en frente y lo que debe hacer es :',
 
 		opt01 : {
 			message: 'rendirse. Notablemente este baile no fue hecho para tortugas dormilonas',	
@@ -157,7 +157,7 @@ var cuadros = {
 	},
 	cuadro_l : {	
 
-		message : 'Arnulfa tenía unas ganas explosivas de bailar, sin embargo toda la práctica que le tomó poder ponerse de espaldas y girar para luego levantarse le tomo mucho tiempo y eso hizo que aquel fuego inquieto con el que Arnulfa ardía internamente se vuelva perpetuo. Hoy en día es la œnica tortuga capaz de bailar breakdance sin perecer. Un saludo a los que no se rinden con lo que les apasiona! Gracias por jugar!',
+		message : 'Arnulfa tenía unas ganas explosivas de bailar, sin embargo toda la práctica que le tomó poder ponerse de espaldas y girar para luego levantarse le tomo mucho tiempo y eso hizo que aquel fuego inquieto con el que Arnulfa ardía internamente se vuelva perpetuo. Hoy en día es la única tortuga capaz de bailar breakdance sin perecer. Un saludo a los que no se rinden con lo que les apasiona! Gracias por jugar!',
 	},
 
 }
