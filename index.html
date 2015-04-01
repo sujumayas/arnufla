@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Arnufla interactiva</title>
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<div class="main-wrapper">
+		<h1 class="title">Arnulfa Interactiva - Test 1</h1>
+		<h2 id="message" class="message"></h2>
+		<h3 class="frame" id="frame"></h3>
+		<ul id="options" class="options">
+			<li id="opt01" class="opt01"></li>
+			<li id="opt02" class="opt02"></li>
+			<li id="opt03" class="opt03"></li>
+		</ul>
+	</div>
+	<script src="jquery.min.js"></script>
+	<script src="data.js"></script>
+	<script src="app.js"></script>
+	<script>
+		var the_game = new Game(cuadros);
+	</script>
+</body>
+</html>
