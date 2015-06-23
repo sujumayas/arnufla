@@ -33,7 +33,7 @@ window.Game = function(data){
 			var option_taken = e.target.id;
 			console.log('Option Taken : '+ e.target.id);
 			if(data[this_room].hasOwnProperty('opt01')){
-				console.log('This room had options, you are going to : ' + data[this_room][option_taken]['relatedRoom']);
+				console.log('This room has options, you are going to : ' + data[this_room][option_taken]['relatedRoom']);
 				reload(data, data[this_room][option_taken]['relatedRoom']);
 			}
 			

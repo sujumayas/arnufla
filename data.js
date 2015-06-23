@@ -6,7 +6,7 @@ var cuadros = {
 	cuadro_0 : {
 		message : '(I) La tortuga que quería bailar breakdance'
 	},
-	cuadro_a : {
+	cuadro_a : {	
 		
 		message : 'Esta es Arnulfa la tortuga. Arnulfa gusta mucho de :',
 		
@@ -23,10 +23,9 @@ var cuadros = {
 			relatedRoom : 'cuadro_d',
 		},
 	},
-	cuadro_b : {
+	cuadro_b : {	
 		
-		message : 'Arnulfa será algún día vieja y sabia. El furor de su juventud es el adelanto crepuscular de una vida de tortuga muy aletargada y plena. Gracias por jugar!',
-		
+		message : 'Arnulfa será algún día vieja y sabia. El furor de su juventud es el adelanto crepuscular de una vida de tortuga muy aletargada y plena. Gracias por jugar!',		
 	},
 	cuadro_c : {	
 
